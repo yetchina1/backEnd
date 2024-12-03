@@ -7,6 +7,7 @@ hello edited the read me file
 // created a new request for 2ndfix
 
 // This is a second fix. here i have created a new conflict.
+// from main, trying to create a conflict with the 2nd_feature at the time of merging.
 
 # EmplManagerBackEnd
 
