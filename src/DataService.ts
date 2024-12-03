@@ -46,6 +46,8 @@ export default class DataService {
         
         */
 
+    // fix critical problem
+    // fix critical porblem
     const empls: Employee[] = [];
     for (const employee of employees) {
       if (employee.possition === possition) {
