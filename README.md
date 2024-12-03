@@ -2,6 +2,8 @@ hello edited the read me file
 
 // this is a second comment
 
+//added a new useless feature
+
 # EmplManagerBackEnd
 
 Simple NodeJs backend service for retrieving employees by possition.
