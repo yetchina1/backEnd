@@ -41,6 +41,9 @@ http.createServer((req, res) => {
     res.writeHead(200, textHeader);
 }).listen(8080);
 
+// this is a new Comment
+// in multiple lines
+
 
 /**
  * Writes the response

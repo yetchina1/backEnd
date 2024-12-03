@@ -1,4 +1,6 @@
-hello edited the read me file.
+hello edited the read me file
+
+// this is a second comment
 
 # EmplManagerBackEnd
 
