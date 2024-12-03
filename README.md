@@ -1,3 +1,5 @@
+hello edited the read me file.
+
 # EmplManagerBackEnd
 
 Simple NodeJs backend service for retrieving employees by possition.
@@ -19,13 +21,13 @@ The project requires npm and nodeJs installed
 
 ## Services:
 
-| Possition | Url |
-|------------|-----|
-|All Employees   | http://localhost:8080/allemployees|
-|Juniors         | http://localhost:8080/juniors     |
-|Programmers     | http://localhost:8080/programmers |
-|Engineers       | http://localhost:8080/engineers   |
-|Experts         | http://localhost:8080/experts     |
-|Managers        | http://localhost:8080/managers    |
-|Admins          | http://localhost:8080/admins      |
-|Nonadmins       | http://localhost:8080/nonadmins   |
+| Possition     | Url                                |
+| ------------- | ---------------------------------- |
+| All Employees | http://localhost:8080/allemployees |
+| Juniors       | http://localhost:8080/juniors      |
+| Programmers   | http://localhost:8080/programmers  |
+| Engineers     | http://localhost:8080/engineers    |
+| Experts       | http://localhost:8080/experts      |
+| Managers      | http://localhost:8080/managers     |
+| Admins        | http://localhost:8080/admins       |
+| Nonadmins     | http://localhost:8080/nonadmins    |
