@@ -9,7 +9,7 @@ hello edited the read me file
 // This is a second fix. here i have created a new conflict.
 // from main, trying to create a conflict with the 2nd_feature at the time of merging.
 
-//2nd feature has been updated.
+// the line thats added in 2nd feature has been removed.
 
 # EmplManagerBackEnd
 
