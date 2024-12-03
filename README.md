@@ -8,7 +8,7 @@ hello edited the read me file
 
 // This is a second fix. here i have created a new conflict.
 
-//2nd feature has been updated.
+//2nd feature has been updated.and now edited.
 
 # EmplManagerBackEnd
 
